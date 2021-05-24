@@ -24,16 +24,13 @@ This contains the code and required files for task 2 of the Convener Application
 
 3. For some states the district wise data is not available in the website, so the code outputs the total cases of the state:
 
+![alt text](https://github.com/SubarnoNR/WNCC-ConvenerApplication/blob/main/images/5.png "Img05")
+
+4. If the state name entered is incorrect, a prompt asking to user to recheck the state name is output :
+
+![alt text](https://github.com/SubarnoNR/WNCC-ConvenerApplication/blob/main/images/6.png "Img06")
 
 
+#### Honour Code :
 
-
-
-
-
-
-
-
-
-
-I guarantee that all the code used in this project is my own(expect some things I may have picked up from the python libraries documentation ofc), and I have not used any unfair means for the completion of this project.
+I guarantee that all the code used in this project is my own (except some things I may have picked up from the python libraries documentation ofc), and I have not used any unfair means for the completion of this project.
